@@ -1,0 +1,15 @@
+.glow {
+  color: #d9b3ff;
+  text-shadow:
+    0 0 5px #a020f0,
+    0 0 10px #a020f0,
+    0 0 20px #6a0dad,
+    0 0 40px #6a0dad;
+}
+
+.glow-sub {
+  color: #c084fc;
+  text-shadow:
+    0 0 5px #6a0dad,
+    0 0 10px #6a0dad;
+}
