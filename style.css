@@ -143,3 +143,9 @@ footer {
   color: #c084fc;
   text-shadow: 0 0 10px #6a0dad;
 }
+
+.product-img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
