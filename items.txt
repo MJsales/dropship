@@ -1,0 +1,7 @@
+!-- COPY THIS TO ADD MORE PRODUCTS -->
+<div class="card">
+  <img src="https://via.placeholder.com/200">
+  <h3>Product Name</h3>
+  <p>$20.00</p>
+  <button>Add to Cart</button>
+</div>
